@@ -1,3 +1,5 @@
+attempt-before-ai
+
 # Claims: 
 1. Prices are increasing because of the poor economy.
 2. Buying in bulk saves you more money. 
